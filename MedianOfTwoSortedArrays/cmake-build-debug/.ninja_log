@@ -1,0 +1,15 @@
+# ninja log v5
+0	530	1729263296257098835	CMakeFiles/MedianOfTwoSortedArrays.dir/main.cpp.o	a327e79204daa7df
+532	618	1729263296346536869	MedianOfTwoSortedArrays	582c27b6fead0125
+2	445	1729263335637231389	CMakeFiles/MedianOfTwoSortedArrays.dir/main.cpp.o	a327e79204daa7df
+446	538	1729263335729917810	MedianOfTwoSortedArrays	582c27b6fead0125
+2	399	1729263349068266446	CMakeFiles/MedianOfTwoSortedArrays.dir/main.cpp.o	a327e79204daa7df
+399	436	1729263349106988587	MedianOfTwoSortedArrays	582c27b6fead0125
+3	554	1729263380003273468	CMakeFiles/MedianOfTwoSortedArrays.dir/main.cpp.o	a327e79204daa7df
+554	596	1729263380047742380	MedianOfTwoSortedArrays	582c27b6fead0125
+2	418	1729263392160924889	CMakeFiles/MedianOfTwoSortedArrays.dir/main.cpp.o	a327e79204daa7df
+419	456	1729263392201115160	MedianOfTwoSortedArrays	582c27b6fead0125
+3	469	1729263429831066553	CMakeFiles/MedianOfTwoSortedArrays.dir/main.cpp.o	a327e79204daa7df
+470	509	1729263429872533328	MedianOfTwoSortedArrays	582c27b6fead0125
+2	449	1729263437635784129	CMakeFiles/MedianOfTwoSortedArrays.dir/main.cpp.o	a327e79204daa7df
+449	492	1729263437680129415	MedianOfTwoSortedArrays	582c27b6fead0125
