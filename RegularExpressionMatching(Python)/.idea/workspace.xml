@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88666a4e-d4b0-4f3c-84a3-a7cd8103e561" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
+    <list default="true" id="88666a4e-d4b0-4f3c-84a3-a7cd8103e561" name="Changes" comment="Deleted">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +59,35 @@
       <option name="presentableId" value="Default" />
       <updated>1729266875826</updated>
       <workItem from="1729266878131" duration="653000" />
-      <workItem from="1729455296668" duration="41000" />
+      <workItem from="1729455296668" duration="1944000" />
+      <workItem from="1729591917819" duration="3000" />
+      <workItem from="1729591923268" duration="10000" />
     </task>
+    <task id="LOCAL-00001" summary="Rewrite solution">
+      <option name="closed" value="true" />
+      <created>1729455415897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729455415897</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Deleted">
+      <option name="closed" value="true" />
+      <created>1729455441661</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729455441661</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rewrite solution" />
+    <MESSAGE value="Deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted" />
   </component>
 </project>
